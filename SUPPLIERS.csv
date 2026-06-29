@@ -1,0 +1,7 @@
+supplier_id,supplier_name,country,lead_time_days,reliability_score,category
+S1,Global Electronics Ltd,China,12,87,electronics
+S2,PackPro Industries,India,8,92,packaging
+S3,SteelCore Supplies,India,15,78,raw_materials
+S4,TechParts Co,Malaysia,10,85,electronics
+S5,Nature Raw Ltd,Vietnam,14,81,raw_materials
+S6,FastPack Solutions,Sri Lanka,5,95,packaging

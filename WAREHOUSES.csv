@@ -1,0 +1,5 @@
+warehouse_id,location,capacity_units,current_utilization_percent
+W1,Colombo,10000,72
+W2,Chennai,8000,65
+W3,Singapore,12000,80
+W4,Dubai,15000,55

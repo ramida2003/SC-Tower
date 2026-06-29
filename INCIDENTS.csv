@@ -1,0 +1,4 @@
+incident_id,shipment_id,incident_type,severity,reported_time,description,resolved
+I1,SH3,delay,high,2026-06-25,"Port congestion at origin causing delay",false
+I2,SH6,weather_issue,medium,2026-06-26,"Heavy rain affecting road transport",false
+I3,SH4,customs_hold,medium,2026-06-27,"Documentation verification delay",false

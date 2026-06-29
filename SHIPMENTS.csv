@@ -1,0 +1,7 @@
+shipment_id,supplier_id,warehouse_id,product_category,shipment_date,expected_arrival_date,actual_arrival_date,status,transport_mode
+SH1,S1,W1,electronics,2026-06-20,2026-06-30,,in_transit,sea
+SH2,S2,W2,packaging,2026-06-18,2026-06-24,2026-06-24,delivered,road
+SH3,S3,W3,raw_materials,2026-06-15,2026-06-25,,delayed,sea
+SH4,S4,W4,electronics,2026-06-22,2026-06-28,,in_transit,air
+SH5,S5,W1,raw_materials,2026-06-19,2026-06-30,,in_transit,sea
+SH6,S6,W2,packaging,2026-06-21,2026-06-26,,delayed,road

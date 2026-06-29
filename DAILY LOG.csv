@@ -1,0 +1,5 @@
+date,total_shipments,delayed_shipments,on_time_rate,total_incidents
+2026-06-24,20,2,90,1
+2026-06-25,22,3,86,2
+2026-06-26,25,4,84,3
+2026-06-27,23,5,78,4
